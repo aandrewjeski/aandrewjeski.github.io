@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://aandrewjeski.github.io/atom.xml" rel="self"/>
   <link href="http://aandrewjeski.github.io/"/>
-  <updated>2014-08-05T23:18:21-04:00</updated>
+  <updated>2014-08-06T16:45:54-07:00</updated>
   <id>http://aandrewjeski.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mountain Zen: Programming in the Montana Wilderness]]></title>
+    <link href="http://aandrewjeski.github.io/blog/2014/08/06/mountain-zen-programming-in-the-montana-wilderness/"/>
+    <updated>2014-08-06T16:40:42-07:00</updated>
+    <id>http://aandrewjeski.github.io/blog/2014/08/06/mountain-zen-programming-in-the-montana-wilderness</id>
+    <content type="html"><![CDATA[<p>This is a test.</p>
+]]></content>
+  </entry>
   
 </feed>
