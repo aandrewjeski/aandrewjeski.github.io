@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://aandrewjeski.github.io/atom.xml" rel="self"/>
   <link href="http://aandrewjeski.github.io/"/>
-  <updated>2014-08-09T12:16:17-07:00</updated>
+  <updated>2014-08-09T12:31:30-07:00</updated>
   <id>http://aandrewjeski.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Robots, Drones, and Javascript - Oh My!]]></title>
+    <link href="http://aandrewjeski.github.io/blog/2014/08/09/robots/"/>
+    <updated>2014-08-09T12:28:57-07:00</updated>
+    <id>http://aandrewjeski.github.io/blog/2014/08/09/robots</id>
+    <content type="html"><![CDATA[<p>Coming Tonight!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mountain Zen: Programming in the Montana Wilderness]]></title>
